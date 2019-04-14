@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FactoryNewsReader</string>
+    <string name="set_title">Greška</string>
+    <string name="set_message">Ups, došlo je do pogreške.</string>
+    <string name="yes">U REDU</string>
+
+
+</resources>
